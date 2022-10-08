@@ -8,7 +8,7 @@ About Me<BR>
 
   ## 🧰 Languages and Tools:
   <table>
-    <tr bgcolor="#FF0000">
+    <tr bgcolor="#FF0000"><td><CENTER>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
@@ -17,7 +17,7 @@ About Me<BR>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
-    </tr>
+      </CENTER></td></tr>
   </table>
   
   
