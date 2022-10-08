@@ -23,8 +23,11 @@ About Me<BR>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" title="MariaDB"  alt="MariaDB" width="40" height="40"/>&nbsp;
 <BR><BR>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
-    
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apache/apache-original-wordmark.svg" title="Apache"  alt="Apache" width="40" height="40"/>&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/centos/centos-original-wordmark.svg" title="CentOS"  alt="CentOS" width="40" height="40"/>&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/debian/debian-original-wordmark.svg" title="Debian"  alt="Debian" width="40" height="40"/>&nbsp;
+<BR><BR> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp; 
 <BR><BR>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://upload.vectorlogo.zone/logos/github/images/c53f393e-9094-4b00-9f76-e489cabbf2a9.svg" title="GitHub" alt="Github" width="40" height="40"/>&nbsp;
