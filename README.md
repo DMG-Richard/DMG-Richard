@@ -1,4 +1,10 @@
-- 👋 Hi, I’m Richard
+- 👋 Hi there! How are you doing? I’m Richard
+
+About Me
+  Currently working as a Founder & Ceo at DMG (Digital Media Geek, Inc)
+  Love for science and innovation.
+  Passionate with problem solving and daily routines automation.
+  Coding since 2004 with 12+ years of experience in enterprise wide software development.
 
 <div align="center">
 	<br>
