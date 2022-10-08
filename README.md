@@ -7,6 +7,8 @@ About Me<BR>
   ✨ Over a decade of experience in data center operations, full-stack web development, web design, Web analytics, and application development.
 
   ## 🧰 Languages and Tools:
+  <table>
+    <tr bgcolor="#FF0000">
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
@@ -15,7 +17,8 @@ About Me<BR>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
-
+    </tr>
+  </table>
   
   
   
