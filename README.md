@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @DMG-Richard
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Richard
+
+<div align="center">
+	<br>
+		<img src="good-times.svg" width="400px">
+	<br>
+</div>
 
 <!---
 DMG-Richard/DMG-Richard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
