@@ -36,7 +36,7 @@ About Me<BR>
   ## Stats:
   
  <p>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmg-richard" alt="dmg-richard" width="50%"/> 
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmg-richard"/> 
    </p>
 <p>
    
