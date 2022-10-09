@@ -36,12 +36,12 @@ About Me<BR>
   ## Stats:
   
  <p>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmg-richard"/> 
    <img src="https://github-readme-stats.vercel.app/api?username=dmg-richard&show_icons=true&count_private=true"/>
-   </p>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmg-richard"/> 
+     </p>
 <p>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmg-richard&show_icons=true&locale=en&layout=compact" align = "center"/> 
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmg-richard&show_icons=true&locale=en&layout=compact" align = "center"/> 
 </p>
     
     
