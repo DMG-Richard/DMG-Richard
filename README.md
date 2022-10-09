@@ -41,7 +41,7 @@ About Me<BR>
      </p>
 <p>
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmg-richard&show_icons=true&locale=en&layout=compact" align = "center"/> 
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmg-richard&show_icons=true&locale=en&layout=compact" align = "center"/> 
 </p>
     
     
