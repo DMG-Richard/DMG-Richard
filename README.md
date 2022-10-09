@@ -40,8 +40,8 @@ About Me<BR>
    <img src="https://github-readme-stats.vercel.app/api?username=dmg-richard&show_icons=true&count_private=true"/>
    </p>
 <p>
-   ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=dmg-richard&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
-    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmg-richardcount_private=true&show_icons=true" align = "center"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmg-richard&show_icons=true&locale=en&layout=compact" align = "center"/> 
 </p>
     
     
