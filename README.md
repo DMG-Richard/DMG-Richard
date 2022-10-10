@@ -37,8 +37,7 @@ About Me<BR>
   
  <p>
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dmg-richard&show_icons=true&count_private=true"/>
-   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=dmg-richard"/> &nbsp;
-   <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmg-richard&show_icons=true&locale=en&layout=compact"/>
+   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=dmg-richard"/>
 </p>
 
     
