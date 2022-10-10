@@ -1,4 +1,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmg-richard&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dmg-richard"/>
 
 - 👋 Hi there! How are you doing? I’m Richard<BR>
 <BR>
@@ -34,14 +35,8 @@ About Me<BR>
   </CENTER>
   
   
-  <BR><BR><BR>
-  ## Stats:
   
 
- <p>
-   <img src="https://github-readme-stats.vercel.app/api?username=dmg-richard&show_icons=true&count_private=true"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmg-richard"/>
-</p>
 
     
     
