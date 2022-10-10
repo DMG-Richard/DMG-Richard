@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmg-richard&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmg-richard&theme=merko)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmg-richard"/>
 
 - 👋 Hi there! How are you doing? I’m Richard<BR>
