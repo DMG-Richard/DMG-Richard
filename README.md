@@ -6,6 +6,9 @@ About Me<BR>
   ✨ Passionate with problem solving and daily routines automation.<BR>
   ✨ Over a decade of experience in data center operations, full-stack web development, web design, Web analytics, and application development.
 
+      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmg-richard&theme=radical)
+  
+  
   ### :hammer_and_wrench: Languages and Tools :
 <CENTER>
 
@@ -35,7 +38,7 @@ About Me<BR>
   <BR><BR><BR>
   ## Stats:
   
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmg-richard&theme=radical)
+
  <p>
    <img src="https://github-readme-stats.vercel.app/api?username=dmg-richard&show_icons=true&count_private=true"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmg-richard"/>
