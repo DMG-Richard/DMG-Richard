@@ -32,7 +32,7 @@ About Me<BR>
   
 </div>
   </CENTER>
-  
+  <BR><BR>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmg-richard"/>  
   
 
