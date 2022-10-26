@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Richard, AKA Digital Media Geek</h1>
 
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/194530701-85313fde-3a37-40b9-9d82-77a4e41da85a.gif)
+<!-- ![github_cover_banner](https://user-images.githubusercontent.com/78341798/194530701-85313fde-3a37-40b9-9d82-77a4e41da85a.gif) -->
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     Founder & Ceo, entrepreneur, technologist, with a proven track record of achieving cost savings and enhancing system functionality. Expertise in managing projects within information, application, and database systems. Proven ability to bridge technology and business goals to provide productive, efficient, and cost-effective solutions. Exceptional ability to manage applications and data in a highly available production environment. Over a decade of experience in data center operations, full-stack web development, web design, Web analytics, application development. Experienced interfacing with key business units including Marketing, Finance, Operations, HR, Maintenance, and Engineering. Excellent communicator with an emphasis on building strong relationships.
@@ -105,7 +105,7 @@
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+<!-- ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif) -->
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
