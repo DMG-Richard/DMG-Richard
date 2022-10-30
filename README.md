@@ -122,7 +122,10 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DMG-Richard&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 
+<BR><BR>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmg-richard&label=Profile%20views&color=0e75b6&style=flat" alt="dmg-richard" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmg-richard" alt="dmg-richard" /></a> </p>
 
 
 
