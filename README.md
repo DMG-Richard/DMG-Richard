@@ -5,7 +5,6 @@
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     Founder & Ceo, entrepreneur, technologist, with a proven track record of achieving cost savings and enhancing system functionality. Expertise in managing projects within information, application, and database systems. Proven ability to bridge technology and business goals to provide productive, efficient, and cost-effective solutions. Exceptional ability to manage applications and data in a highly available production environment. Over a decade of experience in data center operations, full-stack web development, web design, Web analytics, application development. Experienced interfacing with key business units including Marketing, Finance, Operations, HR, Maintenance, and Engineering. Excellent communicator with an emphasis on building strong relationships.
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=dmg-richard)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <div align="center">
 
@@ -126,7 +125,7 @@
 <BR><BR>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmg-richard&label=Profile%20views&color=0e75b6&style=flat" alt="dmg-richard" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmg-richard" alt="dmg-richard" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmg-richard&row=2&column=3" alt="dmg-richard" /></a> </p>
 
 
 
