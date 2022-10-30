@@ -5,6 +5,7 @@
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     Founder & Ceo, entrepreneur, technologist, with a proven track record of achieving cost savings and enhancing system functionality. Expertise in managing projects within information, application, and database systems. Proven ability to bridge technology and business goals to provide productive, efficient, and cost-effective solutions. Exceptional ability to manage applications and data in a highly available production environment. Over a decade of experience in data center operations, full-stack web development, web design, Web analytics, application development. Experienced interfacing with key business units including Marketing, Finance, Operations, HR, Maintenance, and Engineering. Excellent communicator with an emphasis on building strong relationships.
 <br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=dmg-richard)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <div align="center">
 
