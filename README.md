@@ -123,9 +123,9 @@
 </div>
 
 <BR><BR>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmg-richard&label=Profile%20views&color=0e75b6&style=flat" alt="dmg-richard" /> </p>
+    
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmg-richard&row=2&column=3" alt="dmg-richard" /></a> </p>
+<p align="Center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmg-richard&row=2&column=3" alt="dmg-richard" /></a> </p>
 
 
 
@@ -139,6 +139,7 @@
     <a href="mailto:Richard@digitalmediageek.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmg-richard&label=Profile%20views&color=0e75b6&style=flat" alt="dmg-richard" /> </p>
 </div>
 <!-- End Footer -->
 
