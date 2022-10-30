@@ -122,12 +122,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DMG-Richard&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 
-<BR><BR>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmg-richard&show_icons=true&locale=en&layout=compact" alt="dmg-richard" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmg-richard&show_icons=true&locale=en" alt="dmg-richard" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmg-richard&" alt="dmg-richard" /></p>
 
 
 
