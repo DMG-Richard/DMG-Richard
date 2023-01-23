@@ -113,8 +113,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DMG-Richard&count_private=true&theme=algolia&border_radius=20)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMG-Richard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DMG-Richard&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMG-Richard&layout=compact&show_icons=true&theme=algolia&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <BR><BR>
