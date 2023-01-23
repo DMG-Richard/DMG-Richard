@@ -109,7 +109,7 @@
 
 <div class="stats" align="center">
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DMG-Richard&theme=algolia&show_icons=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DMG-Richard&count_private=true&theme=algolia&border_radius=20)
 
