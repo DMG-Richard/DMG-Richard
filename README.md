@@ -1,8 +1,8 @@
 
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Richard, AKA Digital Media Geek</h1>
-<p align="center">
+
 ![github_cover_banner](https://github.com/DMG-Richard/DMG-Richard/blob/main/images/DMG-Richard-header-image.png?raw=true)
-</P>
+
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     Meet Richard, the Founder and CEO of Digital Media Geek, a company that specializes in providing innovative digital solutions to businesses. With over a decade of experience in the tech industry, Richard is a seasoned entrepreneur, technologist, and leader who is passionate about using technology to drive business growth.
 <BR><BR>
