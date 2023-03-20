@@ -66,7 +66,7 @@ In summary, Richard is a visionary leader, an expert technologist, and a proven 
     
     
     
-    <!-- Languages and Tools -->
+<!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <div align="center" style="display:block;">
