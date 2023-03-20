@@ -23,7 +23,7 @@ In summary, Richard is a visionary leader, an expert technologist, and a proven 
   <a href="https://github.com/DMG-Richard?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DMG-Richard?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/DMG-Richard/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DMG-Richard-profile-views"/></a>
 </p>
     
 <div align="center">
