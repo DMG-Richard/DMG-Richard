@@ -14,6 +14,18 @@ Richard's passion for technology and his ability to think strategically have ena
 In summary, Richard is a visionary leader, an expert technologist, and a proven entrepreneur. He has a wealth of experience in the tech industry and has a strong background in software development and AI technology, particularly in the email and SMS space. He is able to bridge the gap between technology and business goals, providing productive, efficient, and cost-effective solutions. He is an excellent communicator with a focus on building strong relationships. His passion for technology, strategic thinking, and problem-solving skills make him an asset to any organization.
 <br>
 <br>
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<p align="center">
+   
+  <a href="https://github.com/DMG-Richard?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DMG-Richard?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/DMG-Richard?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DMG-Richard?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/DMG-Richard/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
+    
 <div align="center">
 
 [Email Me](mailto:Richard@digitalmediageek.com)
