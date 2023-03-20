@@ -1,7 +1,19 @@
-<p align="center">
-  <a href="https://github.com/DMG-Richard">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Richard Sprankle" /></a>
-</p>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Richard, AKA Digital Media Geek</h1>
+
+![github_cover_banner](https://github.com/DMG-Richard/DMG-Richard/blob/main/images/DMG-Richard-header-image.png?raw=true)
+
+<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
+    Meet Richard, the Founder and CEO of Digital Media Geek, a company that specializes in providing innovative digital solutions to businesses. With over a decade of experience in the tech industry, Richard is a seasoned entrepreneur, technologist, and leader who is passionate about using technology to drive business growth.
+<BR><BR>
+As a leader, Richard is an excellent communicator with a focus on building strong relationships. He is a people person and is always looking for ways to connect with others, both internally and externally. He believes that strong communication and positive relationships are key to success, both in business and in life.
+<BR><BR>
+In addition to his technical skills, Richard is also a strategic thinker who is able to see the big picture. He is able to identify the strengths and weaknesses of a business and develop a plan to address them. He is a problem solver who is not afraid to take on complex and challenging projects. He is able to think outside the box and come up with innovative solutions to problems.
+<BR><BR>
+Richard's passion for technology and his ability to think strategically have enabled him to build a successful business. He is always looking for new and innovative ways to use technology to drive growth and improve the bottom line. He is a forward-thinking leader who is able to anticipate and adapt to changes in the marketplace. He is always looking for ways to stay ahead of the curve and stay competitive.
+<BR><BR>
+In summary, Richard is a visionary leader, an expert technologist, and a proven entrepreneur. He has a wealth of experience in the tech industry and has a strong background in software development and AI technology, particularly in the email and SMS space. He is able to bridge the gap between technology and business goals, providing productive, efficient, and cost-effective solutions. He is an excellent communicator with a focus on building strong relationships. His passion for technology, strategic thinking, and problem-solving skills make him an asset to any organization.
+<br>
+<br>
 
 
 <br/>
