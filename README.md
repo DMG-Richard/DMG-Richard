@@ -34,7 +34,7 @@ In summary, Richard is a visionary leader, an expert technologist, and a proven 
 
     
     
-    <details> 
+ 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -62,7 +62,7 @@ In summary, Richard is a visionary leader, an expert technologist, and a proven 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DMG-Richard's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DMG-Richard&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
-</details>
+
     
     
     
