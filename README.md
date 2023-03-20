@@ -110,7 +110,7 @@ In summary, Richard is a visionary leader, an expert technologist, and a proven 
 
 
 
-<!-- Statistics -->
+<!-- Statistics boxes -->
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
