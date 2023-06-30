@@ -15,7 +15,7 @@ In summary, Richard is a visionary leader, an expert technologist, and a proven 
 
 - Web Development: HTML5 | CSS3 | JavaScript | ReactJS | Node.js
 - Databases: MySQL | PostgreSQL | MongoDB
-- Languages: Java | C++ | Python
+- Languages: Python | PHP | TypeScript | Java | C++
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DMG-Richard&show_icons=true&count_private=true)
 
@@ -23,7 +23,7 @@ In summary, Richard is a visionary leader, an expert technologist, and a proven 
 
 ## 📊 This week I spent my time on
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DMG-Richard)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DMGRichard)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔥 Streak stats
 
