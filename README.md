@@ -19,12 +19,11 @@ In summary, Richard is a visionary leader, an expert technologist, and a proven 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMG-Richard&layout=compact)
 
 ## 📊 This week I spent my time on
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DMGRichard)](https://github.com/anuraghazra/github-readme-stats)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DMGRichard\&layout=compact)
 
 ## 🔥 Streak stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DMG-Richard&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DMG-Richard&theme=tokyonight_duo&hide_border=true)]
 
 ## 💻 Open source work stats
 
