@@ -18,7 +18,6 @@ In summary, Richard is a visionary leader, an expert technologist, and a proven 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DMG-Richard&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DMG-Richard&theme=vue-dark&hide_border=false)<BR/>
 
-
 ## 📊 This week I spent my time on
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DMGRichard\&layout=compact)
 
